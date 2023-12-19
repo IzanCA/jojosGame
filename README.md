@@ -1,20 +1,29 @@
 # jojosGame
 
-Personajes
-	vida
-	nombre
-	apellido
-	nombreStand
+Personajes:
+	vida,
+	nombre,
+	apellido,
+	nombreStand.
+
 	queEs:
-		buenos
+		buenos:
 			ataque 1 - fuerte pero lento
+
 			ataque 2 - mas debil pero mas rápido
-			ataque especial - ataque especial po cada personaje
+
+			ataque especial - ataque especial por cada personaje
+
 			comer - cura vida
-		malos
+
+		malos:
+
 			ataque 1 - fuerte pero lento
+
 			ataque 2 - mas debil pero mas rápido
+
 			ataque especial - ataque especial po cada personaje
+
 			comer - cura vida
 			
 El juego empieza con una pantalla en la que elijes personaje
