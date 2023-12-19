@@ -28,7 +28,7 @@ Personajes:
 			
 El juego empieza con una pantalla en la que elijes personaje
 Si la vida del rival llega a 0 - victoria
-Si la vida del personaje elejido llega a 0 - derrota
+Si la vida del personaje elegido llega a 0 - derrota
 
 Buenos: Jotaro, Polnareff
 Malos: Dio, Vanilla Ice
@@ -39,24 +39,40 @@ Los ataques especiales tardan 3 turnos en recargarse
 
 Jotaro:	
 	Ataque fuerte: OraOra
+
 	Ataque rápido: Star finger
+
 	Ataque especial: parar tiempo (le permite hacer un ataque extra)
+
 	Comer
+
 	
 Polnareff:
 	Ataque fuerte: Estocada
+
 	Ataque rápido: ráfaga de espadas
+
 	Ataque especial: división (divide su stand en muchos y hace muchos golpes consecutivos)
+
 	Comer
+
 	
 DIO:
 	Ataque fuerte: MudaMuda
+
 	Ataque rápido: Patada
+
 	Ataque especial: RodoRollada (Hace mucho daño)
+
 	Comer
+
 	
 Vanilla Ice:
 	Ataque fuerte: Bola de vacío
+
 	Ataque rápido: Golpe de Stand
+
 	Ataque especial: se mete dentro de su stand Cream y puede evitar un golpe incluso si es uno especial
+
 	Comer
+    
